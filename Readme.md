@@ -20,9 +20,13 @@ You can add infinite Cryptocurrency to your list and to update their price just 
 
 # Screen Shots
 
-|                                                 Home Page                                                  |                                             Selecting Currency                                             |
+|                                                 Home Page                                                  |                                                 Add Crypto                                                 |
 | :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| ![](https://user-images.githubusercontent.com/30626411/144851633-60e1e792-392b-4ec4-bb11-5cd39cbf1479.png) | ![](https://user-images.githubusercontent.com/30626411/144851920-ab322581-a38b-4fea-a100-a50a19ccd8ec.png) |
+| ![](https://user-images.githubusercontent.com/19619864/153853084-cac20cbd-86d7-4f72-b39c-ab9ea1ee68f5.jpg) | ![](https://user-images.githubusercontent.com/19619864/153853093-bab708a4-2f84-4acf-8667-59acedb01193.jpg) |
+
+|                                              Reload Home Page                                              |                                             Add Crypto Loading                                             |
+| :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+| ![](https://user-images.githubusercontent.com/19619864/153853108-e9eb2d71-6396-4109-8e33-97272977bda2.jpg) | ![](https://user-images.githubusercontent.com/19619864/153853100-693e5e98-fe21-4835-9794-6cc55ff20137.jpg) |
 
 ## Installation
 
