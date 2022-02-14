@@ -1,0 +1,6 @@
+{
+	"searchCryptoServer": "https://min-api.cryptocompare.com/data/all/coinlist",
+	"searchCryptoPrice": "https://min-api.cryptocompare.com/data/price",
+	"apiKey": "5f392cc3a618f27c4e0e43f1575cb03d4b5116ec1a86660bd2c719b746e6dfd3",
+	"currencySymbold": "USD"
+}
